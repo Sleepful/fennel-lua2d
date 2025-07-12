@@ -1,3 +1,10 @@
+This repo is cloned from:
+
+https://sr.ht/~benthor/absolutely-minimal-love2d-fennel/
+
+
+---
+
 # Absolutely Minimal Fennel Setup for Love2D
 
 I feel the classic ["Minimal" Fennel Love2D Setup](https://gitlab.com/alexjgriffith/min-love2d-fennel) is misnamed. It comes with too many bells, whistles, libraries and scripts. So here is all you _actually_ need to get going with [Fennel](https://fennel-lang.org/) in [LÖVE](https://love2d.org)
